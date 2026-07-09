@@ -12,3 +12,6 @@ Designed and developed a responsive personal portfolio website to showcase proje
 - CSS3
 - JavaScript
 - Bootstrap
+
+## Author
+Safwan Malek
